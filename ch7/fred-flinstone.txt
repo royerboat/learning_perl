@@ -1,0 +1,14 @@
+fred flinstone
+wilma
+betty
+barney
+barney and fred go out for a drink.
+wilma and fred are married.
+betty and barney are married.
+dino is fred's pet.
+Alfred does not exist in the flinstone world.
+Fred Flinston is capitalized in this sentence.
+this sentence only has one Capitalized word.
+this sentence has a word in ALL caps.
+this sentence has a word with the same 2 characters food.
+this sentence has 2 spaces  ok
