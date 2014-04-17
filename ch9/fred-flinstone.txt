@@ -1,0 +1,12 @@
+fred flinstone
+wilma
+betty
+barney
+barney and fred go out for a drink.
+wilma and fred are married.
+betty and barney are married.
+dino is fred's pet.
+Alfred does not exist in the flinstone world.
+Fred Flinstone is capitalized in this sentence.
+fred&wilma
+Manfred Mann
