@@ -1,4 +1,5 @@
 *.out
 *.bak
 *.bkp
+*.err
 
